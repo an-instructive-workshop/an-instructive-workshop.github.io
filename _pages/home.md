@@ -35,7 +35,7 @@ __Centering on "instructions"__, we encourage submissions on the following topic
 ## Speakers
 
 * [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/), University of Washington, Allen AI
-* [Nazneen Rajani](https://www.cs.princeton.edu/~danqic/), Hugging Face
+* [Nazneen Rajani](https://www.nazneenrajani.com/), Hugging Face
 * [Sam Bowman](https://cims.nyu.edu/~sbowman/), Anthorpic, New York University
 * [Xipeng Qiu](https://xpqiu.github.io/en.html), Fudan University
 * [Omer Levy](https://www.cs.tau.ac.il/~levyomer/), Tel Aviv University, Meta AI
