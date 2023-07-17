@@ -5,6 +5,9 @@ title: Schedule
 nav: true
 ---
 
+_:warning: This is a tentative schedule, the organizers are still finializing the details._
+
+
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;|
 |-------------|:-------------|
 |__AM__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||

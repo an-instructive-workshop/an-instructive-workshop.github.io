@@ -6,13 +6,11 @@ description:
 nav: true
 ---
 
-<br>
-
 ## Reviewers
 
-We thank the following researchers who have __confirmed__ to serve as reviewers for the proposed workshop:
+We thank the following researchers who have confirmed to serve as reviewers for the workshop:
 
-* Hamish Ivison, Allen Institute for AI
+* Hamish Ivison, Allen Institute for AI, University of Washington
 * Will Brannon, Massachusetts Institute of Technology
 * Jad Kabbara, Massachusetts Institute of Technology
 * Yeganeh Kordi, Brown University

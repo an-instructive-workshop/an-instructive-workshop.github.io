@@ -155,9 +155,11 @@ blockquote {
   }
   .navbar-brand {
     color: var(--global-text-color);
+    font-size: 1em;
   }
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
+    font-size: 1em;
     &:hover {
       color: var(--global-hover-color);
     }
