@@ -3,6 +3,7 @@ layout: page
 permalink: /schedule/
 title: Schedule
 nav: true
+nav_order: 4
 ---
 
 _:warning: This is a tentative schedule, the organizers are still finializing the details._
@@ -11,12 +12,12 @@ _:warning: This is a tentative schedule, the organizers are still finializing th
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;|
 |-------------|:-------------|
 |__AM__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||
-| 08:30 | Opening Remarks |
-| 08:45 | Invited Talk 1 |
-| 09:30 | Invited Talk 2 |
-| 10:15 | Contributed Talks |
-| 10:45 | Small Group Discussion / Break |
-| 11:15 | Poster Session A  |
+| 08:15 | Opening Remarks |
+| 08:30 | Invited Talk 1 |
+| 09:15 | Invited Talk 2 |
+| 10:00 | Contributed Talks |
+| 10:30 | Small Group Discussion / Break |
+| 11:00 | Poster Session A  |
 |-------------|:-------------|
 |__PM__||
 | 13:00 | Invited Talk 3  |

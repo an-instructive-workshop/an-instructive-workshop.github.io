@@ -4,6 +4,7 @@ permalink: /organization/
 title: Organization
 description:
 nav: true
+nav_order: 3
 ---
 
 ## Reviewers
@@ -23,6 +24,8 @@ We thank the following researchers who have confirmed to serve as reviewers for 
 * Xisen Jin, University of Southern California
 * Hongjin Su, University of Hong Kong
 * Yuxian Gu, Tsinghua University
+
+:loudspeaker: Email us ([an-instructive-workshop@googlegroups.com](mailto:an-instructive-workshop@googlegroups.com)) if you want to nominate yourself as a reviewer. Your help will be highly appreciated!
 
 <br>
 
