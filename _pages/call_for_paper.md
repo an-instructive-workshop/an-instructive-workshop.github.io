@@ -7,14 +7,15 @@ nav: true
 nav_order: 2
 ---
 
+# Call for Papers
+<br>
 ### Important Dates
 
-* Submission Deadline: Oct 1, 2023 (AoE)
-* Notification of Acceptance: October 27, 2023 (AoE)
+* Submission Deadline: Oct 1, 2023 (11:59pm, anywhere on earth)
+* Notification of Acceptance: October 27, 2023
 * Camera-ready papers due: TBA
 * Workshop Date: TBA, Dec 15 or Dec 16, 2023
 
-_AoE = Anywhere on Earth_
 
 <br>
 

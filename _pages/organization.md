@@ -7,7 +7,9 @@ nav: true
 nav_order: 3
 ---
 
-## Reviewers
+# Organization
+<br>
+### Reviewers
 
 We thank the following researchers who have confirmed to serve as reviewers for the workshop:
 
@@ -29,10 +31,17 @@ We thank the following researchers who have confirmed to serve as reviewers for 
 
 <br>
 
-## Organizers
+### Organizers
 
 * [Qinyuan Ye](http://yeqy.xyz/), University of Southern California
 * [Yizhong Wang](https://homes.cs.washington.edu/~yizhongw/), University of Washington
 * [Shayne Longpre](https://www.shaynelongpre.com/), Massachusetts Institute of Technology
 * [Yao Fu](https://franxyao.github.io/), University of Edinburgh
 * [Daniel Khashabi](https://danielkhashabi.com/), Johns Hopkins University
+
+<br>
+
+### Steering Committee
+* [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/), University of Washington, Allen Institute for AI
+* [Xiang Ren](https://shanzhenren.github.io/), University of Southern California, Allen Institute for AI
+* [Robin Jia](https://robinjia.github.io/), University of Southern California

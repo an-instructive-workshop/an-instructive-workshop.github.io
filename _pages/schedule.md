@@ -5,6 +5,8 @@ title: Schedule
 nav: true
 nav_order: 4
 ---
+# Schedule
+<br>
 
 _:warning: This is a tentative schedule, the organizers are still finializing the details._
 
