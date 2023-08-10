@@ -20,7 +20,7 @@ __Centering on "instructions,"__ we invite submissions covering various topics, 
 * __Empirical Analysis:__ comprehensive evaluation; failure modes; frontier problems; interpretability studies
 * __Engineering and Open-sourcing:__ best practice in training, evaluation and deployment; open-sourcing efforts; openness and reproducibility
 * __Applications:__ long-context, multi-round and personalized instruction-following models
-* __Multimodal and multidisciplinary:__ instruction following models in computer vision, robotics, games, art, etc.
+* __Multimodal and multidisciplinary:__ instruction following models for computer vision, robotics, games, art, etc.
 * __Limitations, Risks and Safety:__ bias and fairness; factuality and hallucination; safety concerns arising from instruction-following models
 * Other adjacent research topics (e.g., in-context learning, prompting, multi-task learning) that enable better responses to instructions in dynamic environments
 
