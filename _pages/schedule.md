@@ -16,17 +16,17 @@ _:warning: This is a tentative schedule, the organizers are still finializing th
 |__AM__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||
 | 08:15 | Opening Remarks |
 | 08:30 | Invited Talk 1 |
-| 09:15 | Invited Talk 2 |
-| 10:00 | Contributed Talks |
-| 10:30 | Small Group Discussion / Break |
-| 11:00 | Poster Session A  |
+| 09:00 | Invited Talk 2 |
+| 09:30 | Contributed Talks |
+| 10:30 | Break |
+| 11:00 | Invited Talk 3  |
+| 11:30 | Panel 1 |
 |-------------|:-------------|
 |__PM__||
-| 13:00 | Invited Talk 3  |
-| 13:45 | Invited Talk 4  |
-| 14:30 | Late-breaking Results  |
-| 15:00 | Small Group Discussion / Break  |
-| 15:30 | Poster Session B  |
-| 16:15 | Invited Talk 5  |
-| 17:00 | Panel  |
-| 18:00 | Closing Remarks  |
+| 13:30 | Invited Talk 4  |
+| 14:00 | Invited Talk 5  |
+| 14:30 | Poster Session |
+| 15:30 | Break  |
+| 16:00 | Invited Talk 6  |
+| 16:30 | Panel 2 |
+| 17:15 | Closing Remarks  |
