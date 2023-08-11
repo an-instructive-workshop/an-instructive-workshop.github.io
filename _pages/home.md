@@ -138,6 +138,12 @@ Stay tuned! We plan to have two panels to encourage discussion!
     padding: 20px;
 }
 
+@media (max-width: 768px) {
+    .team-container {
+        grid-template-columns: repeat(2, 1fr); /* Display 2 members per row on smaller screens */
+    }
+}
+
 /* Style for each team member */
 .team-member {
     text-align: center;

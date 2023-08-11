@@ -83,6 +83,7 @@ We thank the following researchers who have confirmed to serve as reviewers for 
         </div>
     </div>
 </html>
+
 <style>
     /* Style for the team container */
 .team-container {
@@ -93,6 +94,11 @@ We thank the following researchers who have confirmed to serve as reviewers for 
     padding: 20px;
 }
 
+@media (max-width: 768px) {
+    .team-container {
+        grid-template-columns: repeat(2, 1fr); /* Display 2 members per row on smaller screens */
+    }
+}
 /* Style for each team member */
 .team-member {
     text-align: center;
