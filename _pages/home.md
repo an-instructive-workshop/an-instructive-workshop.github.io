@@ -28,34 +28,136 @@ __Centering on "instructions,"__ we invite submissions covering various topics, 
 
 ## Speakers
 
-* [Sam Bowman](https://cims.nyu.edu/~sbowman/), Anthropic, New York University
-* [Nazneen Rajani](https://www.nazneenrajani.com/), Hugging Face
-* [Omer Levy](https://www.cs.tau.ac.il/~levyomer/), Tel Aviv University, Meta AI
-* [Sara Hooker](https://www.sarahooker.me/), Cohere for AI
-* [Fei Xia](https://fxia22.github.io/), Google DeepMind
-* [Tatsunori Hashimoto](https://thashim.github.io/), Stanford University
 
-<br>
+<html>
+    <div class="team-container">
+        <div class="team-member">
+            <img src="/assets/img/speakers/sam_bowman.jpeg" alt="Name 1">
+            <p><a href="https://cims.nyu.edu/~sbowman/">Sam Bowman</a>
+            <br>Anthropic<br>New York University</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/speakers/nazneen_rajani.jpg" alt="Name 2">
+            <p><a href="https://www.nazneenrajani.com/">Nazneen Rajani</a>
+            <br>Hugging Face</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/speakers/omer_levy.jpeg" alt="Name 3">
+            <p><a href="https://www.cs.tau.ac.il/~levyomer/">Omer Levy</a>
+            <br>Tel Aviv University<br>Meta AI</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/speakers/sara_hooker.jpg" alt="Name 4">
+            <p><a href="https://www.sarahooker.me/">Sara Hooker</a>
+            <br>Cohere for AI</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/speakers/fei_xia.jpg" alt="Name 5">
+            <p><a href="https://fxia22.github.io/">Fei Xia</a>
+            <br>Google DeepMind</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/speakers/thashim.jpg" alt="Name 6">
+            <p><a href="https://thashim.github.io/">Tatsunori Hashimoto</a>
+            <br>Stanford University</p>
+        </div>
+    </div>
+</html>
+
 
 ## Panelists
 
 Stay tuned! We plan to have two panels to encourage discussion!
 
-
 <br>
 
 ## Organizers
-* [Qinyuan Ye](http://yeqy.xyz/), University of Southern California
-* [Yizhong Wang](https://homes.cs.washington.edu/~yizhongw/), University of Washington
-* [Shayne Longpre](https://www.shaynelongpre.com/), Massachusetts Institute of Technology
-* [Yao Fu](https://franxyao.github.io/), University of Edinburgh
-* [Daniel Khashabi](https://danielkhashabi.com/), Johns Hopkins University
-
-<br>
+<html>
+    <div class="team-container">
+        <div class="team-member">
+            <img src="/assets/img/organizers/qinyuan_ye.jpg" alt="Name 1">
+            <a href="http://yeqy.xyz/">Qinyuan Ye</a>
+            <p>University of Southern California</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/yizhong_wang.jpg" alt="Name 2">
+            <p><a href="https://homes.cs.washington.edu/~yizhongw/">Yizhong Wang</a>
+            <br>University of Washington</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/shayne_longpre.jpg" alt="Name 3">
+            <p><a href="https://www.shaynelongpre.com/">Shayne Longpre</a>
+            <br>Massachusetts Institute of Technology</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/yao_fu.jpg" alt="Name 4">
+            <p><a href="https://franxyao.github.io/">Yao Fu</a>
+            <br>University of Edinburgh</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/daniel_khashabi.jpeg" alt="Name 5">
+            <p><a href="https://danielkhashabi.com/">Daniel Khashabi</a>
+            <br>Johns Hopkins University</p>
+        </div>
+    </div>
+</html>
 
 ## Steering Committee
-* [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/), University of Washington, Allen Institute for AI
-* [Xiang Ren](https://shanzhenren.github.io/), University of Southern California, Allen Institute for AI
-* [Robin Jia](https://robinjia.github.io/), University of Southern California
+
+<html>
+    <div class="team-container">
+        <div class="team-member">
+            <img src="/assets/img/organizers/hannaneh_hajishirzi.jpg" alt="Name 1">
+            <p><a href="https://homes.cs.washington.edu/~hannaneh/">Hannaneh Hajishirzi</a>
+            <br>University of Washington<br>Allen Institute for AI</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/xiang_ren.jpg" alt="Name 2">
+            <p><a href="https://shanzhenren.github.io/">Xiang Ren</a>
+            <br>University of Southern California<br>Allen Institute for AI</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/robin_jia.jpg" alt="Name 3">
+            <p><a href="https://robinjia.github.io/">Robin Jia</a>
+            <br>University of Southern California</p>
+        </div>
+    </div>
+</html>
+
+<style>
+    /* Style for the team container */
+.team-container {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr); /* Display 3 members per row */
+    gap: 5px;
+    max-width: 900px;
+    padding: 20px;
+}
+
+/* Style for each team member */
+.team-member {
+    text-align: center;
+    background-color: #fff;
+    padding: 0px;
+    width: 150px; /* Set a fixed width for consistent circle appearance */
+    height: 260px; /* Set a fixed height for consistent circle appearance */
+    /* box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.1); */
+    overflow: hidden; /* Hide any image overflow */
+}
+
+
+.team-member h3 {
+    font-size: 16px;
+    color: #333;
+}
+
+.team-member img {
+  object-fit: cover;
+  border-radius:50%;
+  width: 150px;
+  height: 150px;
+  padding: 10px;
+}
+</style>
 
 <br><br>
