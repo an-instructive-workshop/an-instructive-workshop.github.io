@@ -39,7 +39,7 @@ __Centering on "instructions,"__ we invite submissions covering various topics, 
 
 * Paper submission is hosted on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/Instruction).
 * We welcome papers __up to 9 pages (max)__, not including references or appendix. 
-  * Please use this [LaTeX template](/assets/template/instruction_workshop_template.zip) for your submission.
+  * Please use the provided LaTex template ([zip](/assets/template/instruction_workshop_template.zip), [overleaf](https://www.overleaf.com/latex/templates/instruction-workshop-at-neurips-2023-template/fqkhtqxvjrrq)) for your submission.
   * The paper should be anonymized and uploaded to OpenReview as a single PDF. 
   * We welcome 4-page extended abstract submissions.
 * This is a __non-archival__ workshop. No submission will be indexed nor have archival proceedings.
