@@ -27,7 +27,7 @@ We thank the following researchers who have confirmed to serve as reviewers for 
 * Hongjin Su, University of Hong Kong
 * Yuxian Gu, Tsinghua University
 
-:loudspeaker: Email us ([an-instructive-workshop@googlegroups.com](mailto:an-instructive-workshop@googlegroups.com)) if you want to nominate yourself as a reviewer. Your help will be highly appreciated!
+:loudspeaker: Fill out this [self-nomination form](https://forms.gle/kBwzp9QmoNdQgqW3A) or email us at [an-instructive-workshop@googlegroups.com](mailto:an-instructive-workshop@googlegroups.com) if you want to nominate yourself as a reviewer. Your help will be highly appreciated!
 
 <br>
 
