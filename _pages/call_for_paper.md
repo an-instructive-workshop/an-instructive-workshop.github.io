@@ -12,6 +12,7 @@ nav_order: 2
 ### Important Dates
 
 * Submission Begins: September 1, 2023
+  * Submission Portal: [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/Instruction); Style files: [Zip](/assets/template/instruction_workshop_template.zip), [Overleaf](https://www.overleaf.com/latex/templates/instruction-workshop-at-neurips-2023-template/fqkhtqxvjrrq)
 * __Submission Deadline: October 1, 2023 (11:59pm, anywhere on earth)__
 * Notification of Acceptance: October 27, 2023
 * Camera-ready papers due: TBA
@@ -41,6 +42,7 @@ __Centering on "instructions,"__ we invite submissions covering various topics, 
 * We welcome papers __up to 9 pages (max)__, not including references or appendix. 
   * Please use the provided LaTex template ([zip](/assets/template/instruction_workshop_template.zip), [overleaf](https://www.overleaf.com/latex/templates/instruction-workshop-at-neurips-2023-template/fqkhtqxvjrrq)) for your submission.
   * The paper should be anonymized and uploaded to OpenReview as a single PDF. 
+  * You may use as many pages of references and appendix as you wish, but reviewers are not required to read the appendix. 
   * We welcome 4-page extended abstract submissions.
 * This is a __non-archival__ workshop. No submission will be indexed nor have archival proceedings.
   * Accepted papers will appear on the workshop website. 

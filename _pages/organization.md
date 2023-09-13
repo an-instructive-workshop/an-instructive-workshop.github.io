@@ -10,6 +10,9 @@ nav_order: 3
 # Organization
 <br>
 ## Reviewers
+<br>
+:loudspeaker: Fill out this [self-nomination form](https://forms.gle/kBwzp9QmoNdQgqW3A) or email us at [an-instructive-workshop@googlegroups.com](mailto:an-instructive-workshop@googlegroups.com) if you want to nominate yourself as a reviewer. Your help will be highly appreciated!
+
 
 We thank the following researchers who have confirmed to serve as reviewers for the workshop:
 
@@ -19,15 +22,46 @@ We thank the following researchers who have confirmed to serve as reviewers for 
 * Yeganeh Kordi, Brown University
 * Orion Weller, Johns Hopkins University
 * Yunmo Chen, Johns Hopkins University
-* Seonghyeon Ye, Korea Advanced Institute of Science & Technology
+* Seonghyeon Ye, Korea Advanced Institute of Science and Technology
 * Renze Lou, Penn State University
 * Jun Yan, University of Southern California
 * Ting-Yun Chang, University of Southern California
 * Xisen Jin, University of Southern California
 * Hongjin Su, University of Hong Kong
 * Yuxian Gu, Tsinghua University
+* Dongfang Li, Harbin Institute of Technology
+* Sheng Shen, University of California, Berkeley
+* Zheng Yuan, Alibaba Group
+* Seungone Kim, Korea Advanced Institute of Science and Technology
+* Junxian He, Hong Kong University of Science and Technology
+* Kate Sanders, Johns Hopkins University
+* Szymon Tworkowski, University of Warsaw
+* Tianxiang Sun, Fudan University
+* Alexander Wan, University of California, Berkeley
+* Aman Madaan, Carnegie Mellon University
+* Charlie Snell, University of California, Berkeley
+* Cheng-Yu Hsieh, University of Washington
+* Zeyu Liu, University of Texas at Austin
+* Joongwon Kim, University of Washington
+* Yushi Hu, University of Washington
+* Siru Ouyang, University of Illinois Urbana-Champaign
+* Ganesh Jawahar, University of British Columbia
+* Da Yin, University of California, Los Angeles
+* Nelson F. Liu, Stanford University
+* Anastasia Razdaibiedina, University of Toronto
+* Ziyang Luo, Hong Kong Baptist University
+* Sihao Chen, University of Pennsylvania
+* Mengzhou Xia, Princeton University
+* Lingfeng Shen, Johns Hopkins University
+* Nicholas Lourie, New York University
+* Anh Tuan Nguyen, Microsoft
+* Hanoz Bhathena, JP Morgan Chase & Co.
+* Prateek Yadav, University of North Carolina, Chapel Hill
+* M Saiful Bari, Nanyang Technological University
+* Sameera Horawalavithana, Pacific Northwest National Laboratory
+* Bo Li, Sambanova Systems
+* Yasharth Bajpai, Microsoft
 
-:loudspeaker: Fill out this [self-nomination form](https://forms.gle/kBwzp9QmoNdQgqW3A) or email us at [an-instructive-workshop@googlegroups.com](mailto:an-instructive-workshop@googlegroups.com) if you want to nominate yourself as a reviewer. Your help will be highly appreciated!
 
 <br>
 
