@@ -11,9 +11,11 @@ nav_order: 2
 <br>
 ### Important Dates
 
+:loudspeaker: __The submission deadline is extended to October 4!__
+
 * Submission Begins: September 1, 2023
   * Submission Portal: [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/Instruction); Style files: [Zip](/assets/template/instruction_workshop_template.zip), [Overleaf](https://www.overleaf.com/latex/templates/instruction-workshop-at-neurips-2023-template/fqkhtqxvjrrq)
-* __Submission Deadline: October 1, 2023 (11:59pm, anywhere on earth)__
+* __Submission Deadline: ~~October 1, 2023~~ October 4, 2023 (11:59pm, anywhere on earth)__
 * Notification of Acceptance: October 27, 2023
 * Camera-ready papers due: TBA
 * Workshop Date: December 15, 2023
