@@ -16,52 +16,101 @@ nav_order: 3
 
 We thank the following researchers who have confirmed to serve as reviewers for the workshop:
 
-* Hamish Ivison, Allen Institute for AI, University of Washington
-* Will Brannon, Massachusetts Institute of Technology
-* Jad Kabbara, Massachusetts Institute of Technology
-* Yeganeh Kordi, Brown University
-* Orion Weller, Johns Hopkins University
-* Yunmo Chen, Johns Hopkins University
-* Seonghyeon Ye, Korea Advanced Institute of Science and Technology
-* Renze Lou, Penn State University
-* Jun Yan, University of Southern California
-* Ting-Yun Chang, University of Southern California
-* Xisen Jin, University of Southern California
-* Hongjin Su, University of Hong Kong
-* Yuxian Gu, Tsinghua University
-* Dongfang Li, Harbin Institute of Technology
-* Sheng Shen, University of California, Berkeley
-* Zheng Yuan, Alibaba Group
-* Seungone Kim, Korea Advanced Institute of Science and Technology
-* Junxian He, Hong Kong University of Science and Technology
-* Kate Sanders, Johns Hopkins University
-* Szymon Tworkowski, University of Warsaw
-* Tianxiang Sun, Fudan University
+* Abe Bohan Hou, Johns Hopkins University
 * Alexander Wan, University of California, Berkeley
 * Aman Madaan, Carnegie Mellon University
+* Anastasia Razdaibiedina, University of Toronto
+* Anh Tuan Nguyen, Microsoft
+* Armel Randy Zebaze, Ecole Normale Supérieure Paris-Saclay
+* Bo Li, Sambanova Systems
+* Canyu Chen, Illinois Institute of Technology
 * Charlie Snell, University of California, Berkeley
 * Cheng-Yu Hsieh, University of Washington
-* Zeyu Liu, University of Texas at Austin
-* Joongwon Kim, University of Washington
-* Yushi Hu, University of Washington
-* Siru Ouyang, University of Illinois Urbana-Champaign
-* Ganesh Jawahar, University of British Columbia
+* Chenhao Fang, Walmart Labs
 * Da Yin, University of California, Los Angeles
-* Nelson F. Liu, Stanford University
-* Anastasia Razdaibiedina, University of Toronto
-* Ziyang Luo, Hong Kong Baptist University
-* Sihao Chen, University of Pennsylvania
-* Mengzhou Xia, Princeton University
+* Dingmin Wang, University of Oxford
+* Dongfang Li, Harbin Institute of Technology
+* Dongyue Li, Northeastern University
+* Ercong Nie, Ludwig-Maximilians-Universität München
+* Fan Zhou, Shanghai Jiaotong University
+* Faria Huq, Carnegie Mellon University
+* Ganesh Jawahar, University of British Columbia
+* Gihun Lee, Korea Advanced Institute of Science and Technology
+* Vlad Lialin, UMass Lowell
+* Hai Wang, Samsung
+* Hamish Ivison, University of Washington
+* Hanoz Bhathena, Columbia University
+* Hantian Ding, Amazon
+* Haoqin Tu, University of the Chinese Academy of Sciences
+* Hongjin Su, University of Hong Kong
+* Hongyang R Zhang, Northeastern University
+* Hongyang Yang, Columbia University
+* Hugh Zhang, Harvard University
+* Irene Li, University of Tokyo
+* Jingyu Zhang, Johns Hopkins University
+* Jonathan Lingjie Li, SambaNova Systems
+* Joongwon Kim, University of Washington
+* Joonkee Kim, Korea Advanced Institute of Science & Technology
+* Jun Yan, University of Southern California
+* Junxian He, Hong Kong University of Science and Technology
+* Kaiyan Zhang, Tsinghua University
+* Karina Nguyen, Anthropic
+* Kartik Perisetla, Apple
+* Kate Sanders, Johns Hopkins University
+* Keming Lu, Alibaba Group
+* Khai Loong Aw, Singapore Management University 
+* Lilian Ngweta, Rensselaer Polytechnic Institute
 * Lingfeng Shen, Johns Hopkins University
-* Nicholas Lourie, New York University
-* Anh Tuan Nguyen, Microsoft
-* Hanoz Bhathena, JP Morgan Chase & Co.
-* Prateek Yadav, University of North Carolina, Chapel Hill
 * M Saiful Bari, Nanyang Technological University
+* Mengzhou Xia, Princeton University 
+* Nelson F. Liu, Stanford University
+* Nicholas Lourie, New York University
+* Nihal V. Nayak, Brown University
+* Oleksiy Ostapenko, University of Montreal
+* Orion Weller, Johns Hopkins University
+* Pinzhen Chen, University of Edinburgh
+* Piotr Nawrot, University of Edinburgh
+* Prateek Yadav, University of North Carolina, Chapel Hill
+* Qingru Zhang, Georgia Institute of Technology
+* Renze Lou, Pennsylvania State University
+* Rui Zheng, Fudan University
+* Sam Toyer, University of California, Berkeley
 * Sameera Horawalavithana, Pacific Northwest National Laboratory
-* Bo Li, Sambanova Systems
+* Seonghyeon Ye, Korea Advanced Institute of Science and Technology
+* Seungone Kim, KAIST
+* Shaina Raza, University of Toronto
+* Sheng Shen, University of California Berkeley
+* Sihang Zeng, University of Washington
+* Sihao Chen, University of Pennsylvania
+* Simeng Sun, University of Massachusetts, Amherst
+* Siru Ouyang, University of Illinois Urbana-Champaign Champaign
+* Siyan Zhao, University of California, Los Angeles
+* Szymon Tworkowski, University of Warsaw
+* Tianxiang Sun, Fudan University
+* Ting-Yun Chang, University of Southern California
+* Victor Gallego, Komorebi AI
+* Wen-Ding Li, Cornell University
+* William Brannon, Massachusetts Institute of Technology
+* Xiao Ye, Johns Hopkins University
+* Xiaodong Yu, University of Pennsylvania
+* Xinyu Hu, Microsoft
+* Xisen Jin, University of Southern California
 * Yasharth Bajpai, Microsoft
-
+* Yeganeh Kordi, Brown University
+* Yiyang Zhou, Xi'an Jiaotong University
+* Yuexiang Zhai, University of California Berkeley
+* Yulai Zhao, Princeton University
+* Yunmo Chen, Johns Hopkins University
+* Yupei Liu, MathWorks
+* Yushi Hu, University of Washington
+* Yuxian Gu, Tsinghua University, Tsinghua University
+* Zeyu Liu, University of Texas at Austin
+* Zheng Yuan, Alibaba Group
+* Zhengping Jiang, Johns Hopkins University
+* Zhiyuan Zeng, Tsinghua University
+* Zhufeng Pan, Google
+* Ziyang Luo, Microsoft
+* Zizhong Li, University of California, Davis
 
 <br>
 
