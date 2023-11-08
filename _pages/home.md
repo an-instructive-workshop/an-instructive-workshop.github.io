@@ -161,11 +161,11 @@ __Centering on "instructions,"__ we invite submissions covering various topics, 
 <html>
     <div class="sponsor-container">
         <div class="sponsor">
-            <img src="/assets/img/sponsors/ubiquant.jpg" alt="Figure 1">
+            <img src="/assets/img/sponsors/ubiquant.jpg" alt="Ubiquant">
             <p class="caption"><a href="https://www.ubiquant.com/website/home">Ubiquant</a></p>
         </div>
         <div class="sponsor" >
-            <img src="/assets/img/sponsors/sambanova.png" alt="Figure 2" max-width=300px>
+            <img src="/assets/img/sponsors/sambanova.png" alt="SambaNova Systems" max-width=300px>
             <p class="caption"><a href="https://sambanova.ai/">SambaNova Systems</a></p>
         </div>
         <div class="right-half"></div> <!-- Empty right-half -->
