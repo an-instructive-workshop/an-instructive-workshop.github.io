@@ -3,8 +3,7 @@ layout: page
 permalink: /call/
 title: Call for Papers
 description:
-nav: true
-nav_order: 2
+nav: false
 ---
 
 # Call for Papers
@@ -17,7 +16,7 @@ nav_order: 2
   * Submission Portal: [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/Instruction); Style files: [Zip](/assets/template/instruction_workshop_template.zip), [Overleaf](https://www.overleaf.com/latex/templates/instruction-workshop-at-neurips-2023-template/fqkhtqxvjrrq)
 * __Submission Deadline: ~~October 1, 2023~~ October 4, 2023 (11:59pm, anywhere on earth)__
 * Notification of Acceptance: October 27, 2023
-* Camera-ready papers due: TBA
+* Camera-ready papers due: November 9, 2023
 * Workshop Date: December 15, 2023
 
 

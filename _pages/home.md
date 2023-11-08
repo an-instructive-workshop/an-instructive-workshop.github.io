@@ -32,9 +32,9 @@ __Centering on "instructions,"__ we invite submissions covering various topics, 
 <html>
     <div class="team-container">
         <div class="team-member">
-            <img src="/assets/img/speakers/sam_bowman.jpeg" alt="Name 1">
-            <p><a href="https://cims.nyu.edu/~sbowman/">Sam Bowman</a>
-            <br>Anthropic<br>New York University</p>
+            <img src="/assets/img/speakers/alex_tamkin.jpg" alt="Name 1">
+            <p><a href="https://www.alextamkin.com/">Alex Tamkin</a>
+            <br>Anthropic</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/speakers/nazneen_rajani.jpg" alt="Name 2">
@@ -67,9 +67,41 @@ __Centering on "instructions,"__ we invite submissions covering various topics, 
 
 ## Panelists
 
-Stay tuned! We plan to have two panels to encourage discussion!
+<html>
+    <div class="team-container">
+        <div class="team-member">
+            <img src="/assets/img/speakers/alex_tamkin.jpg" alt="Name 1">
+            <p><a href="https://www.alextamkin.com/">Alex Tamkin</a>
+            <br>Anthropic</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/speakers/nazneen_rajani.jpg" alt="Name 2">
+            <p><a href="https://www.nazneenrajani.com/">Nazneen Rajani</a>
+            <br>Hugging Face</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/speakers/sara_hooker.jpg" alt="Name 4">
+            <p><a href="https://www.sarahooker.me/">Sara Hooker</a>
+            <br>Cohere for AI</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/speakers/fei_xia.jpg" alt="Name 5">
+            <p><a href="https://fxia22.github.io/">Fei Xia</a>
+            <br>Google DeepMind</p>
+        </div>        
+        <div class="team-member">
+            <img src="/assets/img/speakers/albert_webson.jpg" alt="Name 3">
+            <p><a href="https://representation.ai/">Albert Webson</a>
+            <br>Google DeepMind<br>University of Tokyo</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/speakers/colin_raffel.jpg" alt="Name 6">
+            <p><a href="https://colinraffel.com/">Colin Raffel</a>
+            <br>University of Toronto<br>Hugging Face</p>
+        </div>
+    </div>
+</html>
 
-<br>
 
 ## Organizers
 <html>
@@ -125,8 +157,21 @@ Stay tuned! We plan to have two panels to encourage discussion!
 </html>
 
 ## Sponsors
-:loudspeaker: We need your help! Email us ([an-instructive-workshop@googlegroups.com](mailto:an-instructive-workshop@googlegroups.com)) if you are interested in sponsoring our workshop!
 
+<html>
+    <div class="sponsor-container">
+        <div class="sponsor">
+            <img src="/assets/img/sponsors/ubiquant.jpg" alt="Figure 1">
+            <p class="caption"><a href="https://www.ubiquant.com/website/home">Ubiquant</a></p>
+        </div>
+        <div class="sponsor" >
+            <img src="/assets/img/sponsors/sambanova.png" alt="Figure 2" max-width=300px>
+            <p class="caption"><a href="https://sambanova.ai/">SambaNova Systems</a></p>
+        </div>
+        <div class="right-half"></div> <!-- Empty right-half -->
+
+    </div>
+</html>
 
 <style>
     /* Style for the team container */
@@ -167,6 +212,35 @@ Stay tuned! We plan to have two panels to encourage discussion!
   width: 150px;
   height: 150px;
   padding: 10px;
+}
+
+.sponsor-container {
+    display: flex;
+    gap: 5px;
+}
+
+.sponsor {
+    flex: 1;
+    margin: 10px;
+    text-align: center;
+    box-sizing: border-box;
+    height: 50px;
+    width: 50px;
+}
+
+.sponsor img {  
+    width: 100%; /* Make the image take up 100% of the figure's width */
+    height: 100%;
+    object-fit: contain; 
+}
+
+.caption {
+    margin-top: 12px; /* Adjust the margin to control the gap between the figure and the caption */
+}
+
+.right-half {
+    flex: 1; /* Each figure takes up 50% of the available width */
+    height: 500px; /* Set a fixed height for all figures (adjust the value as needed) */
 }
 </style>
 

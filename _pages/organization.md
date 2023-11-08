@@ -11,15 +11,12 @@ nav_order: 3
 <br>
 ## Reviewers
 <br>
-:loudspeaker: Fill out this [self-nomination form](https://forms.gle/kBwzp9QmoNdQgqW3A) or email us at [an-instructive-workshop@googlegroups.com](mailto:an-instructive-workshop@googlegroups.com) if you want to nominate yourself as a reviewer. Your help will be highly appreciated!
-
-
-We thank the following researchers who have confirmed to serve as reviewers for the workshop:
+We thank the following researchers who served as reviewers for the workshop:
 
 * Abe Bohan Hou, Johns Hopkins University
+* Albert Webson, University of Tokyo
 * Alexander Wan, University of California, Berkeley
 * Aman Madaan, Carnegie Mellon University
-* Anastasia Razdaibiedina, University of Toronto
 * Anh Tuan Nguyen, Microsoft
 * Armel Randy Zebaze, Ecole Normale Supérieure Paris-Saclay
 * Bo Li, Sambanova Systems
@@ -36,7 +33,6 @@ We thank the following researchers who have confirmed to serve as reviewers for 
 * Faria Huq, Carnegie Mellon University
 * Ganesh Jawahar, University of British Columbia
 * Gihun Lee, Korea Advanced Institute of Science and Technology
-* Vlad Lialin, UMass Lowell
 * Hai Wang, Samsung
 * Hamish Ivison, University of Washington
 * Hanoz Bhathena, Columbia University
@@ -50,7 +46,7 @@ We thank the following researchers who have confirmed to serve as reviewers for 
 * Jingyu Zhang, Johns Hopkins University
 * Jonathan Lingjie Li, SambaNova Systems
 * Joongwon Kim, University of Washington
-* Joonkee Kim, Korea Advanced Institute of Science & Technology
+* Joonkee Kim, Korea Advanced Institute of Science and Technology
 * Jun Yan, University of Southern California
 * Junxian He, Hong Kong University of Science and Technology
 * Kaiyan Zhang, Tsinghua University
@@ -62,7 +58,9 @@ We thank the following researchers who have confirmed to serve as reviewers for 
 * Lilian Ngweta, Rensselaer Polytechnic Institute
 * Lingfeng Shen, Johns Hopkins University
 * M Saiful Bari, Nanyang Technological University
-* Mengzhou Xia, Princeton University 
+* Mengzhou Xia, Princeton University
+* Michael D. Conover, Indiana Univeristy
+* Minyi Zhao, Fudan University
 * Nelson F. Liu, Stanford University
 * Nicholas Lourie, New York University
 * Nihal V. Nayak, Brown University
@@ -77,9 +75,10 @@ We thank the following researchers who have confirmed to serve as reviewers for 
 * Sam Toyer, University of California, Berkeley
 * Sameera Horawalavithana, Pacific Northwest National Laboratory
 * Seonghyeon Ye, Korea Advanced Institute of Science and Technology
-* Seungone Kim, KAIST
+* Seungone Kim, Korea Advanced Institute of Science and Technology
 * Shaina Raza, University of Toronto
-* Sheng Shen, University of California Berkeley
+* Sheng Shen, University of California, Berkeley
+* Shrestha Mohanty, Microsoft
 * Sihang Zeng, University of Washington
 * Sihao Chen, University of Pennsylvania
 * Simeng Sun, University of Massachusetts, Amherst
@@ -97,13 +96,12 @@ We thank the following researchers who have confirmed to serve as reviewers for 
 * Xisen Jin, University of Southern California
 * Yasharth Bajpai, Microsoft
 * Yeganeh Kordi, Brown University
-* Yiyang Zhou, Xi'an Jiaotong University
-* Yuexiang Zhai, University of California Berkeley
+* Yuexiang Zhai, University of California, Berkeley
 * Yulai Zhao, Princeton University
 * Yunmo Chen, Johns Hopkins University
 * Yupei Liu, MathWorks
 * Yushi Hu, University of Washington
-* Yuxian Gu, Tsinghua University, Tsinghua University
+* Yuxian Gu, Tsinghua University
 * Zeyu Liu, University of Texas at Austin
 * Zheng Yuan, Alibaba Group
 * Zhengping Jiang, Johns Hopkins University
