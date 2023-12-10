@@ -11,8 +11,9 @@ nav_order: 2
 
 <br>
 __Links: [[OpenReview Portal]](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/Instruction) [[NeurIPS Site]](https://neurips.cc/virtual/2023/workshop/66498)__
+<br>__Note:__ Authors are encouraged to contact us to add links to posters, videos, and other materials related to their paper.
 
-
+---
 
 [Improved Baselines with Visual Instruction Tuning](https://openreview.net/forum?id=yx3Hkx5ved)
 <br>Haotian Liu, Chunyuan Li, Yuheng Li, Yong Jae Lee
@@ -52,6 +53,7 @@ __Links: [[OpenReview Portal]](https://openreview.net/group?id=NeurIPS.cc/2023/W
 
 [Use Your INSTINCT: INSTruction optimization usIng Neural bandits Coupled with Transformers](https://openreview.net/forum?id=twgpHJmvJy)
 <br>Xiaoqiang Lin, Zhaoxuan Wu, Zhongxiang Dai, Wenyang Hu, Yao Shu, See-Kiong Ng, Patrick Jaillet, Bryan Kian Hsiang Low
+<br>[[Video]](https://www.bilibili.com/video/BV14C4y1n7Ji/) [[Project Page]](https://xqlin98.github.io/INSTINCT/)
 
 [Learning to Generate Instructions to Adapt Language Models to New Tasks](https://openreview.net/forum?id=tw2w8rgWMV)
 <br>Nihal Nayak, Yiyang Nan, Avi Trost, Stephen Bach
@@ -100,6 +102,7 @@ __Links: [[OpenReview Portal]](https://openreview.net/group?id=NeurIPS.cc/2023/W
 
 [Investigating the Effects of Zero-Shot Chain-of-Thought on Empathetic Dialogue Generation](https://openreview.net/forum?id=eBu11K7THc)
 <br>Young-Jun Lee, Dokyong Lee, Jihui Im, Joo Won Sung, Ho-Jin Choi
+<br>[[Poster]](/assets/pdf/55poster.pdf)
 
 [Analyzing and Mitigating Object Hallucination in Large Vision-Language Models](https://openreview.net/forum?id=czQZ4aLUb6)
 <br>Yiyang Zhou, Chenhang Cui, Jaehong Yoon, Linjun Zhang, Zhun Deng, Chelsea Finn, Mohit Bansal, Huaxiu Yao
@@ -139,6 +142,7 @@ __Links: [[OpenReview Portal]](https://openreview.net/group?id=NeurIPS.cc/2023/W
 
 [DialogCC: An Automated Pipeline for Creating High-Quality Multi-modal Dialogue Datasets](https://openreview.net/forum?id=QUwcQFgA5a)
 <br>Young-Jun Lee, Byungsoo Ko, Han-Gyu Kim, Jonghwan Hyeon, Ho-Jin Choi
+<br>[[Poster]](/assets/pdf/96poster.pdf)
 
 [Knowledge Augmented Instruction Tuning for Zero-shot Animal Species Recognition](https://openreview.net/forum?id=OQHckRYbpT)
 <br>Zalan Fabian, Zhongqi Miao, Chunyuan Li, Yuanhan Zhang, Ziwei Liu, Andres Hernandez, Pablo Arbelaez, Andrés Link, Andrés Montes-Rojas, Rafael Escucha, Laura Siabatto, Rahul Dodhia, Juan Lavista Ferres
