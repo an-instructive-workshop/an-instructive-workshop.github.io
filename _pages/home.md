@@ -42,11 +42,6 @@ __Centering on "instructions,"__ we invite submissions covering various topics, 
             <br>Hugging Face</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/speakers/omer_levy.jpeg" alt="Name 3">
-            <p><a href="https://www.cs.tau.ac.il/~levyomer/">Omer Levy</a>
-            <br>Tel Aviv University<br>Meta AI</p>
-        </div>
-        <div class="team-member">
             <img src="/assets/img/speakers/sara_hooker.jpg" alt="Name 4">
             <p><a href="https://www.sarahooker.me/">Sara Hooker</a>
             <br>Cohere for AI</p>
@@ -65,7 +60,8 @@ __Centering on "instructions,"__ we invite submissions covering various topics, 
 </html>
 
 
-## Panelists
+## Panel 1 
+##### Key Techniques, Insights, and Challenges in Building Instruction-following Models
 
 <html>
     <div class="team-container">
@@ -73,16 +69,6 @@ __Centering on "instructions,"__ we invite submissions covering various topics, 
             <img src="/assets/img/speakers/alex_tamkin.jpg" alt="Name 1">
             <p><a href="https://www.alextamkin.com/">Alex Tamkin</a>
             <br>Anthropic</p>
-        </div>
-        <div class="team-member">
-            <img src="/assets/img/speakers/nazneen_rajani.jpg" alt="Name 2">
-            <p><a href="https://www.nazneenrajani.com/">Nazneen Rajani</a>
-            <br>Hugging Face</p>
-        </div>
-        <div class="team-member">
-            <img src="/assets/img/speakers/sara_hooker.jpg" alt="Name 4">
-            <p><a href="https://www.sarahooker.me/">Sara Hooker</a>
-            <br>Cohere for AI</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/speakers/fei_xia.jpg" alt="Name 5">
@@ -94,6 +80,29 @@ __Centering on "instructions,"__ we invite submissions covering various topics, 
             <p><a href="https://representation.ai/">Albert Webson</a>
             <br>Google DeepMind<br>University of Tokyo</p>
         </div>
+    </div>
+</html>
+
+## Panel 2
+##### Open and Collaborative Strategies for the Large Language Models Adaptation
+
+<html>
+    <div class="team-container">
+        <div class="team-member">
+            <img src="/assets/img/speakers/nazneen_rajani.jpg" alt="Name 2">
+            <p><a href="https://www.nazneenrajani.com/">Nazneen Rajani</a>
+            <br>Hugging Face</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/speakers/sara_hooker.jpg" alt="Name 4">
+            <p><a href="https://www.sarahooker.me/">Sara Hooker</a>
+            <br>Cohere for AI</p>
+        </div>       
+        <div class="team-member">
+            <img src="/assets/img/speakers/hao_zhang.jpeg" alt="Name 3">
+            <p><a href="https://cseweb.ucsd.edu/~haozhang/">Hao Zhang</a>
+            <br>UC San Diego<br>lmsys.org</p>
+        </div>
         <div class="team-member">
             <img src="/assets/img/speakers/colin_raffel.jpg" alt="Name 6">
             <p><a href="https://colinraffel.com/">Colin Raffel</a>
@@ -101,7 +110,6 @@ __Centering on "instructions,"__ we invite submissions covering various topics, 
         </div>
     </div>
 </html>
-
 
 ## Organizers
 <html>
@@ -181,9 +189,9 @@ __Centering on "instructions,"__ we invite submissions covering various topics, 
     /* Style for the team container */
 .team-container {
     display: grid;
-    grid-template-columns: repeat(6, 1fr); /* Display 3 members per row */
+    grid-template-columns: repeat(5, 1fr); /* Display 3 members per row */
     gap: 5px;
-    max-width: 900px;
+    max-width: 1000px;
     padding: 20px;
 }
 
