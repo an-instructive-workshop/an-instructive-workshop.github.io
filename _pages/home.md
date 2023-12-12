@@ -32,9 +32,9 @@ __Centering on "instructions,"__ we invite submissions covering various topics, 
 <html>
     <div class="team-container">
         <div class="team-member">
-            <img src="/assets/img/speakers/alex_tamkin.jpg" alt="Name 1">
-            <p><a href="https://www.alextamkin.com/">Alex Tamkin</a>
-            <br>Anthropic</p>
+            <img src="/assets/img/speakers/thashim.jpg" alt="Name 6">
+            <p><a href="https://thashim.github.io/">Tatsunori Hashimoto</a>
+            <br>Stanford University</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/speakers/nazneen_rajani.jpg" alt="Name 2">
@@ -42,19 +42,19 @@ __Centering on "instructions,"__ we invite submissions covering various topics, 
             <br>Hugging Face</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/speakers/sara_hooker.jpg" alt="Name 4">
-            <p><a href="https://www.sarahooker.me/">Sara Hooker</a>
-            <br>Cohere for AI</p>
-        </div>
-        <div class="team-member">
             <img src="/assets/img/speakers/fei_xia.jpg" alt="Name 5">
             <p><a href="https://fxia22.github.io/">Fei Xia</a>
             <br>Google DeepMind</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/speakers/thashim.jpg" alt="Name 6">
-            <p><a href="https://thashim.github.io/">Tatsunori Hashimoto</a>
-            <br>Stanford University</p>
+            <img src="/assets/img/speakers/sara_hooker.jpg" alt="Name 4">
+            <p><a href="https://www.sarahooker.me/">Sara Hooker</a>
+            <br>Cohere for AI</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/speakers/alex_tamkin.jpg" alt="Name 1">
+            <p><a href="https://www.alextamkin.com/">Alex Tamkin</a>
+            <br>Anthropic</p>
         </div>
     </div>
 </html>
@@ -94,10 +94,10 @@ __Centering on "instructions,"__ we invite submissions covering various topics, 
             <br>Hugging Face</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/speakers/sara_hooker.jpg" alt="Name 4">
-            <p><a href="https://www.sarahooker.me/">Sara Hooker</a>
-            <br>Cohere for AI</p>
-        </div>       
+            <img src="/assets/img/speakers/thashim.jpg" alt="Name 6">
+            <p><a href="https://thashim.github.io/">Tatsunori Hashimoto</a>
+            <br>Stanford University</p>
+        </div>    
         <div class="team-member">
             <img src="/assets/img/speakers/hao_zhang.jpeg" alt="Name 3">
             <p><a href="https://cseweb.ucsd.edu/~haozhang/">Hao Zhang</a>
