@@ -26,6 +26,7 @@ __Links: [[OpenReview Portal]](https://openreview.net/group?id=NeurIPS.cc/2023/W
 
 [Instruction-tuned LLMs with World Knowledge are More Aligned to the Human Brain](https://openreview.net/forum?id=ydY0xXNhwi)
 <br>Khai Loong Aw, Syrielle Montariol, Badr AlKhamissi, Martin Schrimpf, Antoine Bosselut
+<br>[[Poster]](https://bkhmsi.github.io/assets/posters/instruction-tuning-brain-align.pdf) [[Video]](https://recorder-v3.slideslive.com/?share=90518&s=4b382389-ff57-4e72-bf89-d59c531c3d4f) [[Arxiv]](https://arxiv.org/abs/2312.00575)
 
 [Ring Attention with Blockwise Transformers for Near-Infinite Context](https://openreview.net/forum?id=xulyCXgIWH)
 <br>Hao Liu, Matei Zaharia, Pieter Abbeel
