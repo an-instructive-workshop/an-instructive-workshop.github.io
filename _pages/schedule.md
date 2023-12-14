@@ -17,7 +17,7 @@ nav_order: 5
 | 10:00-10:15 | Break |
 | 10:15-10:45 | Invited Talk 3 – Fei Xia |
 | 10:45-11:30 | Panel 1: Key Techniques, Insights, and Challenges in Building Instruction-following Models
-|  | Panelists: Alex Tamkin, Albert Webson, Fei Xia |
+|  | Panelists: Alex Tamkin, Albert Webson, Fei Xia, Prithviraj (Raj) Ammanabrolu, Hyung Won Chung |
 |-------------|:-------------|
 |__PM__||
 | 13:00-14:00 | Poster Session |

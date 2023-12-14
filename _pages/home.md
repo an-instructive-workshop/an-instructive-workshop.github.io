@@ -85,6 +85,11 @@ Check talk details (title, abstract, speaker bio) at this [page](speakers)!
             <p><a href="https://prithvirajva.com/">Prithviraj (Raj) Ammanabrolu</a>
             <br>UC San Diego<br>MosaicML</p>
         </div>
+        <div class="team-member">
+            <img src="/assets/img/speakers/hyungwon.jpg" alt="Name 3">
+            <p><a href="https://hwchung27.github.io/">Hyung Won Chung</a>
+            <br>OpenAI</p>
+        </div>
     </div>
 </html>
 
