@@ -68,7 +68,7 @@ __Links: [[OpenReview Portal]](https://openreview.net/group?id=NeurIPS.cc/2023/W
 [Instruction-following Evaluation through Verbalizer Manipulation](https://openreview.net/forum?id=rz6u0qOVth)
 <br>Shiyang Li, Jun Yan, Hai Wang, Zheng Tang, Xiang Ren, Vijay Srinivasan, Hongxia Jin
 
-[Delve into PPO: Implementation Matters  for Stable RLHF](https://openreview.net/forum?id=rxEmiOEIFL)
+[Delve into PPO: Implementation Matters for Stable RLHF](https://openreview.net/forum?id=rxEmiOEIFL)
 <br>Rui Zheng, Shihan Dou, Songyang Gao, Yuan Hua, Wei Shen, Binghai Wang, Yan Liu, Senjie Jin, Yuhao Zhou, Limao Xiong, Lu Chen, Zhiheng Xi, Nuo Xu, Wenbin Lai, Minghao Zhu, Haoran Huang, Tao Gui, Qi Zhang, Xuanjing Huang
 
 [NLPBench: Evaluating Large Language Models on Solving NLP Problems](https://openreview.net/forum?id=qN9T4cmTEw)

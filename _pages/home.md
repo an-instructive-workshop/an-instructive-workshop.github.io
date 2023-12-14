@@ -34,35 +34,35 @@ Check talk details (title, abstract, speaker bio) at this [page](speakers)!
         <div class="team-member">
             <img src="/assets/img/speakers/thashim.jpg" alt="Name 6">
             <p><a href="https://thashim.github.io/">Tatsunori Hashimoto</a>
-            <br>Stanford University</p>
+            <br>Stanford University<br>9:00-9:30</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/speakers/nazneen_rajani.jpg" alt="Name 2">
             <p><a href="https://www.nazneenrajani.com/">Nazneen Rajani</a>
-            <br>Hugging Face</p>
+            <br>Hugging Face<br>9:30-10:00</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/speakers/fei_xia.jpg" alt="Name 5">
             <p><a href="https://fxia22.github.io/">Fei Xia</a>
-            <br>Google DeepMind</p>
+            <br>Google DeepMind<br>10:15-10:45</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/speakers/sara_hooker.jpg" alt="Name 4">
             <p><a href="https://www.sarahooker.me/">Sara Hooker</a>
-            <br>Cohere for AI</p>
+            <br>Cohere for AI<br>14:00-14:30</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/speakers/alex_tamkin.jpg" alt="Name 1">
             <p><a href="https://www.alextamkin.com/">Alex Tamkin</a>
-            <br>Anthropic</p>
+            <br>Anthropic<br>14:30-15:00</p>
         </div>
     </div>
 </html>
 
 
 ## Panel 1 
-##### Key Techniques, Insights, and Challenges in Building Instruction-following Models
-
+##### Key Techniques, Insights, and Challenges in Building Instruction-following Models 
+Time: 10:45-11:30
 <html>
     <div class="team-container">
         <div class="team-member">
@@ -94,7 +94,9 @@ Check talk details (title, abstract, speaker bio) at this [page](speakers)!
 </html>
 
 ## Panel 2
-##### Open and Collaborative Strategies for the Large Language Models Adaptation
+##### Open and Collaborative Strategies for the Large Language Models Adaptation (15:15-16:00)
+Time: 15:15-16:00
+
 
 <html>
     <div class="team-container">
@@ -120,6 +122,27 @@ Check talk details (title, abstract, speaker bio) at this [page](speakers)!
         </div>
     </div>
 </html>
+
+## Oral Presentations
+Time: 16:00-17:20
+
+1. [Understanding Hidden Context in Preference Learning: Consequences for RLHF](https://openreview.net/forum?id=GO8aPQ9Odp)
+<br>Anand Siththaranjan, Cassidy Laidlaw, Dylan Hadfield-Menell
+2. [Tensor Trust: Interpretable Prompt Injection Attacks from an Online Game](https://openreview.net/forum?id=UWymGURI75)
+<br>Sam Toyer, Olivia Watkins, Ethan Mendes, Justin Svegliato, Luke Bailey, Tiffany Wang, Isaac Ong, Karim Elmaaroufi, Pieter Abbeel, Trevor Darrell, Alan Ritter, Stuart Russell
+3. [Understanding the Effects of RLHF on LLM Generalisation and Diversity](https://openreview.net/forum?id=Bc3S2G1PxH)
+<br>Robert Kirk, Ishita Mediratta, Christoforos Nalmpantis, Jelena Luketina, Eric Hambro, Edward Grefenstette, Roberta Raileanu
+4. [Learning Interactive Real-World Simulators](https://openreview.net/forum?id=5O9JBt35zg)
+<br>Sherry Yang, Yilun Du, Seyed Kamyar Seyed Ghasemipour, Jonathan Tompson, Dale Schuurmans, Pieter Abbeel
+5. [Interactive Planning Using Large Language Models for Partially Observable Robotics Tasks](https://openreview.net/forum?id=apEdj9baZx)
+<br>Lingfeng Sun, Devesh Jha, Chiori Hori, Siddarth Jain, Radu Corcodel, Xinghao Zhu, Masayoshi Tomizuka, Diego Romeres
+6. [Self-RAG: Self-reflective Retrieval Augmented Generation](https://openreview.net/forum?id=jbNjgmE0OP)
+<br>Akari Asai, Zeqiu Wu, Yizhong Wang, Avirup Sil, Hannaneh Hajishirzi
+7. [Delve into PPO: Implementation Matters for Stable RLHF](https://openreview.net/forum?id=rxEmiOEIFL)
+<br>Rui Zheng, Shihan Dou, Songyang Gao, Yuan Hua, Wei Shen, Binghai Wang, Yan Liu, Senjie Jin, Yuhao Zhou, Limao Xiong, Lu Chen, Zhiheng Xi, Nuo Xu, Wenbin Lai, Minghao Zhu, Haoran Huang, Tao Gui, Qi Zhang, Xuanjing Huang
+8. [FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets](https://openreview.net/forum?id=5dI6ZphLYX)
+<br>Seonghyeon Ye, Doyoung Kim, Sungdong Kim, Hyeonbin Hwang, Seungone Kim, Yongrae Jo, James Thorne, Juho Kim, Minjoon Seo
+<br><br>
 
 ## Organizers
 <html>
