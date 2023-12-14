@@ -28,7 +28,7 @@ __Centering on "instructions,"__ we invite submissions covering various topics, 
 
 ## Speakers
 
-
+Check talk details (title, abstract, speaker bio) at this [page](speakers)!
 <html>
     <div class="team-container">
         <div class="team-member">
@@ -79,6 +79,11 @@ __Centering on "instructions,"__ we invite submissions covering various topics, 
             <img src="/assets/img/speakers/albert_webson.jpg" alt="Name 3">
             <p><a href="https://representation.ai/">Albert Webson</a>
             <br>Google DeepMind<br>University of Tokyo</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/speakers/raj.jpg" alt="Name 3">
+            <p><a href="https://prithvirajva.com/">Prithviraj (Raj) Ammanabrolu</a>
+            <br>UC San Diego<br>MosaicML</p>
         </div>
     </div>
 </html>
