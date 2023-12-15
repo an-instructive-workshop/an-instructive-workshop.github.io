@@ -94,7 +94,7 @@ Time: 10:45-11:30
 </html>
 
 ## Panel 2
-##### Open and Collaborative Strategies for the Large Language Models Adaptation (15:15-16:00)
+##### Open and Collaborative Strategies for Large Language Models Adaptation
 Time: 15:15-16:00
 
 
