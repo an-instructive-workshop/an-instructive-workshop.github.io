@@ -39,7 +39,7 @@ Check talk details (title, abstract, speaker bio) at this [page](speakers)!
         <div class="team-member">
             <img src="/assets/img/speakers/nazneen_rajani.jpg" alt="Name 2">
             <p><a href="https://www.nazneenrajani.com/">Nazneen Rajani</a>
-            <br>Hugging Face<br>9:30-10:00</p>
+            <br>(Formerly)<br>Hugging Face<br>9:30-10:00</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/speakers/fei_xia.jpg" alt="Name 5">
@@ -94,7 +94,7 @@ Time: 10:45-11:30
 </html>
 
 ## Panel 2
-##### Open and Collaborative Strategies for Large Language Models Adaptation
+##### Open and Collaborative Strategies for Large Language Model Adaptation
 Time: 15:15-16:00
 
 
@@ -103,7 +103,7 @@ Time: 15:15-16:00
         <div class="team-member">
             <img src="/assets/img/speakers/nazneen_rajani.jpg" alt="Name 2">
             <p><a href="https://www.nazneenrajani.com/">Nazneen Rajani</a>
-            <br>Hugging Face</p>
+            <br>(Formerly)<br>Hugging Face</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/speakers/thashim.jpg" alt="Name 6">
@@ -118,29 +118,31 @@ Time: 15:15-16:00
         <div class="team-member">
             <img src="/assets/img/speakers/colin_raffel.jpg" alt="Name 6">
             <p><a href="https://colinraffel.com/">Colin Raffel</a>
-            <br>University of Toronto<br>Hugging Face</p>
+            <br>University of Toronto<br>Vector Institute</p>
         </div>
     </div>
 </html>
 
-## Oral Presentations
-Time: 16:00-17:20
+## Paper Awards
 
+##### Best Paper
+1. [Delve into PPO: Implementation Matters for Stable RLHF](https://openreview.net/forum?id=rxEmiOEIFL)
+<br>Rui Zheng, Shihan Dou, Songyang Gao, Yuan Hua, Wei Shen, Binghai Wang, Yan Liu, Senjie Jin, Yuhao Zhou, Limao Xiong, Lu Chen, Zhiheng Xi, Nuo Xu, Wenbin Lai, Minghao Zhu, Haoran Huang, Tao Gui, Qi Zhang, Xuanjing Huang
+2. [Learning Interactive Real-World Simulators](https://openreview.net/forum?id=5O9JBt35zg)
+<br>Sherry Yang, Yilun Du, Seyed Kamyar Seyed Ghasemipour, Jonathan Tompson, Dale Schuurmans, Pieter Abbeel
+
+##### Honorable Mention
 1. [Understanding Hidden Context in Preference Learning: Consequences for RLHF](https://openreview.net/forum?id=GO8aPQ9Odp)
 <br>Anand Siththaranjan, Cassidy Laidlaw, Dylan Hadfield-Menell
 2. [Tensor Trust: Interpretable Prompt Injection Attacks from an Online Game](https://openreview.net/forum?id=UWymGURI75)
 <br>Sam Toyer, Olivia Watkins, Ethan Mendes, Justin Svegliato, Luke Bailey, Tiffany Wang, Isaac Ong, Karim Elmaaroufi, Pieter Abbeel, Trevor Darrell, Alan Ritter, Stuart Russell
 3. [Understanding the Effects of RLHF on LLM Generalisation and Diversity](https://openreview.net/forum?id=Bc3S2G1PxH)
 <br>Robert Kirk, Ishita Mediratta, Christoforos Nalmpantis, Jelena Luketina, Eric Hambro, Edward Grefenstette, Roberta Raileanu
-4. [Learning Interactive Real-World Simulators](https://openreview.net/forum?id=5O9JBt35zg)
-<br>Sherry Yang, Yilun Du, Seyed Kamyar Seyed Ghasemipour, Jonathan Tompson, Dale Schuurmans, Pieter Abbeel
-5. [Interactive Planning Using Large Language Models for Partially Observable Robotics Tasks](https://openreview.net/forum?id=apEdj9baZx)
+4. [Interactive Planning Using Large Language Models for Partially Observable Robotics Tasks](https://openreview.net/forum?id=apEdj9baZx)
 <br>Lingfeng Sun, Devesh Jha, Chiori Hori, Siddarth Jain, Radu Corcodel, Xinghao Zhu, Masayoshi Tomizuka, Diego Romeres
-6. [Self-RAG: Self-reflective Retrieval Augmented Generation](https://openreview.net/forum?id=jbNjgmE0OP)
+5. [Self-RAG: Self-reflective Retrieval Augmented Generation](https://openreview.net/forum?id=jbNjgmE0OP)
 <br>Akari Asai, Zeqiu Wu, Yizhong Wang, Avirup Sil, Hannaneh Hajishirzi
-7. [Delve into PPO: Implementation Matters for Stable RLHF](https://openreview.net/forum?id=rxEmiOEIFL)
-<br>Rui Zheng, Shihan Dou, Songyang Gao, Yuan Hua, Wei Shen, Binghai Wang, Yan Liu, Senjie Jin, Yuhao Zhou, Limao Xiong, Lu Chen, Zhiheng Xi, Nuo Xu, Wenbin Lai, Minghao Zhu, Haoran Huang, Tao Gui, Qi Zhang, Xuanjing Huang
-8. [FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets](https://openreview.net/forum?id=5dI6ZphLYX)
+6. [FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets](https://openreview.net/forum?id=5dI6ZphLYX)
 <br>Seonghyeon Ye, Doyoung Kim, Sungdong Kim, Hyeonbin Hwang, Seungone Kim, Yongrae Jo, James Thorne, Juho Kim, Minjoon Seo
 <br><br>
 

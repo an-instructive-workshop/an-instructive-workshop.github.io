@@ -24,7 +24,7 @@ nav_order: 5
 | 14:00-14:30 | Invited Talk 4 - Sara Hooker |
 | 14:30-15:00 | Invited Talk 5 - Alex Tamkin |
 | 15:00-15:15 | Break  |
-| 15:15-16:00  | Panel 2: Open and Collaborative Strategies for the Large Language Models Adaptation|
+| 15:15-16:00  | Panel 2: Open and Collaborative Strategies for the Large Language Model Adaptation|
 |  | Panelists: Nazneen Rajani, Colin Raffel, Hao Zhang, Tatsunori Hashimoto |
 | 16:00-17:20 | Oral Presentations (10 min each) |
 | | 1. Understanding Hidden Context in Preference Learning: Consequences for RLHF |
