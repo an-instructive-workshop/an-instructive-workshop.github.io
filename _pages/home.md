@@ -6,7 +6,23 @@ title: <h3  align="center">Workshop on Instruction Tuning and Instruction Follow
 nav_order: 1
 ---
 
+
+<html lang="en">
+<div class="news-box">
+  <h4>Announcements</h4>
+  <br>
+  <p>1. <b>Recordings</b> are available on the <a href="https://neurips.cc/virtual/2023/workshop/66498" target="_blank">NeurIPS website</a> (NeurIPS registration required). They will be made public after one month (Jan 2024).<br>
+  2. <b>Talk slides</b> are posted on the <a href="/speakers">speakers page</a>.<br>
+  3. Congratuations to <a href="#paper-awards">paper award winners</a>!<br>
+  4. <b>Workshop highlights and photos</b> can be found on our <a href="https://twitter.com/itif_workshop">Twitter</a>.
+  <br><br>
+  Thank you for joining us at NeurIPS 2023! Hope to see you next time! 
+  </p>
+</div>
+</html>
+
 <br>
+
 Recent advancements in training large language models (LLMs) to follow "instructions" have significantly increased their ability to comprehend open-ended language commands, encompassing a wide range of needs, preferences, and values.
 
 This remarkable transformation has led to the creation of remarkable industrial models such as [GPT-4](https://arxiv.org/abs/2303.08774) and [Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/), as well as an increased focus within the open-source and research communities: creating new benchmark and resources [[1](https://aclanthology.org/2022.emnlp-main.340/),[2](https://arxiv.org/abs/2301.13688)], developing new training methods [[3](https://arxiv.org/abs/2203.02155),[4](https://arxiv.org/abs/2212.10560)], and understanding the limitations of these methods [[5](https://arxiv.org/abs/2109.01247)]. Furthermore, instruction following powered by LLMs has proven to be effective in multi-modal settings, with applications in image editing [[6](https://arxiv.org/abs/2211.09800)] and robotic command execution [[7](https://arxiv.org/abs/2204.01691)].
@@ -28,7 +44,7 @@ __Centering on "instructions,"__ we invite submissions covering various topics, 
 
 ## Speakers
 
-Check talk details (title, abstract, speaker bio) at this [page](speakers)!
+Check talk details (title, abstract, speaker bio, slides) at this [page](speakers)!
 <html>
     <div class="team-container">
         <div class="team-member">
@@ -288,6 +304,14 @@ Time: 15:15-16:00
 .right-half {
     flex: 1; /* Each figure takes up 50% of the available width */
     height: 500px; /* Set a fixed height for all figures (adjust the value as needed) */
+}
+
+.news-box {
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 600px;
+    margin: 0 auto;
+    background-color: #f9f9f9;
 }
 </style>
 

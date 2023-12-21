@@ -18,7 +18,7 @@ nav_order: 2
         <div class="team-member">
             <img src="/assets/img/speakers/nazneen_rajani.jpg" alt="Name 2">
             <p><a href="https://www.nazneenrajani.com/">Nazneen Rajani</a>
-            <br>Hugging Face</p>
+            <br>(Formerly) <br>Hugging Face</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/speakers/fei_xia.jpg" alt="Name 5">
@@ -40,6 +40,7 @@ nav_order: 2
 
 #### Empowering Instruction Following Research with Language Models as Simulators
 
+[[Slides]](/assets/pdf/Tatsunori_Hashimoto_Talk.pdf)
 
 __Speaker:__ Tatsunori Hashimoto, Stanford University
 
@@ -51,7 +52,9 @@ __Abstract:__ Instruction-following language models have driven remarkable progr
 __Bio:__ Tatsunori Hashimoto is an Assistant Professor in the Computer Science Department at Stanford University. He is a member of the statistical machine learning and natural language processing groups at Stanford, and his research uses tools from statistics to make machine learning systems more robust and trustworthy — especially in complex systems such as large language models. He is a Kavli fellow, a Sony and Amazon research award winner, and his work has been recognized with best paper awards at ICML and CHI. Before becoming an Assistant Professor, he was a postdoctoral researcher at Stanford with Percy Liang and John Duchi and received his Ph.D. from MIT under the supervision of Tommi Jaakkola and David Gifford.
 
 <br>
-#### Manual Curation vs. AI Distillation: Lessons Learned for Instruction Following and Feedback Fine-tuning
+#### Manual Curation vs. AI Distillation: Lessons Learned for Instruction Following and Feedback Fine-tuning 
+
+[[Slides]](https://www.nazneenrajani.com/neurips_instruction_tuning.pdf)
 
 __Speaker:__ Nazneen Rajani 
 
@@ -86,7 +89,9 @@ __Abstract:__ In this talk, to frame many of the open challenges and opportuniti
 __Bio:__ Sara Hooker leads Cohere For AI, a non-profit research lab that seeks to solve complex machine learning problems. Cohere For AI supports fundamental research that explores the unknown, and is focused on creating more points of entry into machine learning research. With a long track-record of impactful research at Google Brain, Sara brings a wealth of knowledge from across machine learning. Her work has focused on model efficiency training techniques and optimizing for models that fulfill multiple desired criteria -- interpretable, efficient, fair and robust. Before Cohere For AI, she was the founder of Delta Analytics, a non-profit that brings together researchers, data scientists, and software engineers to volunteer their skills for non-profits around the world.
 
 <br>
-#### Beyond Instruction Following
+#### Beyond Instruction Following 
+
+[[Slides]](https://docs.google.com/presentation/d/1geLScLm6rGj-tWU5EeQh-oGvkKAUgGSBGUpRSETKOuI/edit#slide=id.p)
 
 __Speaker:__ Alex Tamkin
 
