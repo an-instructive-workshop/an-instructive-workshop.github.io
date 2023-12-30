@@ -313,6 +313,12 @@ Time: 15:15-16:00
     margin: 0 auto;
     background-color: #f9f9f9;
 }
+
+@media (max-width: 600px) {
+    .news-box {
+        width: 100%; /* Adjust width to fit the screen */
+    }
+}
 </style>
 
 <br><br>
