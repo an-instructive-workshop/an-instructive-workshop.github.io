@@ -1,0 +1,65 @@
+---
+layout: parse
+---
+<!DOCTYPE html>
+<html lang="{{ site.lang }}">
+
+  <!-- Head -->
+  <head>
+  {%- if page.redirect -%}
+    <meta http-equiv="refresh" content="3; url={{ site.baseurl | prepend: site.url }}/" />
+  {%- endif -%}
+  {% include head.html %}
+  </head>
+
+  <!-- Body -->
+  <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
+
+    <!-- Header -->
+    {%- include header.html %}
+
+    <style>
+        body, .headerr {
+            margin: 0;
+            padding: 0;
+        }
+        
+        /* Set the background image and style for the header */
+        .headerr {
+            background-image: url('../assets/img/header.jpg'); /* Replace with the path to your image */
+            background-size: cover; /* Cover the entire header with the image */
+            background-position: center; /* Center the image within the header */
+            max-width: 100%;
+            margin: 50 auto;
+        }
+        </style>
+        
+        <div class="headerr">
+            <br><br>
+        <h2  align="center">The Second Workshop on Instruction Tuning and Instruction Following</h2><br>
+        <p align="center">
+        Workshop Proposal for NeurIPS 2024<br>
+        <br>
+        
+        Contact Us: <a href="mailto:an-instructive-workshop@googlegroups.com">an-instructive-workshop@googlegroups.com</a>
+        </p>
+        <br>
+    </div>
+        
+    <!-- Content -->
+    <div class="container mt-5">
+      {{ content }}
+    </div>
+
+    <!-- Footer -->
+    {%- include footer.html %}
+
+    <!-- JavaScripts -->
+    {% include scripts/jquery.html %}
+    {% include scripts/bootstrap.html %}
+    {% include scripts/masonry.html %}
+    {% include scripts/misc.html %}
+    {% include scripts/mathjax.html %}
+    {% include scripts/analytics.html %}
+  </body>
+</html>
